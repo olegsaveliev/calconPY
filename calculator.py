@@ -60,4 +60,4 @@ btn_clear.grid(row=5, column=0, columnspan=4, sticky="we")
 root.mainloop()
 
 
-// this is my first calc code 
+# this is my first calc code 
